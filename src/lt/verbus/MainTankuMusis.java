@@ -18,7 +18,7 @@ public class MainTankuMusis extends Application {
 
         BorderPane zaidimoInterface = new BorderPane();
 
-        Radaras radaras = new Radaras();`
+        Radaras radaras = new Radaras();
         Pultelis pultelis = new Pultelis();
         Konsole konsole = new Konsole();
         konsole.pildytiKonsole(radaras.getPaskutinisVeiksmas());
